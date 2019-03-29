@@ -1,6 +1,7 @@
-# Flutter Datetime Picker
-
-[(Pub) flutter_datetime_picker](https://pub.dartlang.org/packages/flutter_datetime_picker)
+# Flutter Datetime Picker Usage
+#用法
+  flutter_datetime_picker:
+    git: https://github.com/Realank/flutter_datetime_picker.git
 
 A flutter date time picker inspired by [flutter-cupertino-date-picker](https://github.com/wuzhendev/flutter-cupertino-date-picker)
 
